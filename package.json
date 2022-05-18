@@ -1,0 +1,11 @@
+{
+  "name": "logseq-slash-tick",
+  "version": "0.0.1",
+  "description": "Insert the tick emoji.",
+  "main": "index.html",
+  "author": "mngad",
+  "license": "MIT",
+  "logseq": {
+    "id": "_r5fbt3wdc"
+  }
+}
